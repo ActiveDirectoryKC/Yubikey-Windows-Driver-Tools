@@ -67,9 +67,9 @@ Enables debugging on the Yubico driver which will be placed in C:\Logs.
 
 ### NOTES
 #### VERSION 1.0
-Created By: ActiveDirectoryKC.NET
-Created On: 06/13/2024
-Updated On: 07/09/2024
+- Created By: ActiveDirectoryKC.NET
+- Created On: 06/13/2024
+- Updated On: 07/09/2024
 
 #### REFERENCE
 https://support.yubico.com/hc/en-us/articles/360015654560-Deploying-the-YubiKey-Minidriver-to-Workstations-and-Servers

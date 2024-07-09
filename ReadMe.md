@@ -15,9 +15,7 @@ I am not in any way affiliated with Yubico or any of their affiliates. This is m
 Installs the latest Yubikey minidriver from the share.
 
 ### DESCRIPTION
-Installs the latest Yubikey minidriver from the share if that version is newer than the existing. 
-Includes the LEGACY_MODE switch on the install to support remote Yubikeys.
-Requires the Yubikey minidriver to be downloaded and stored in the same directory as this script.
+Installs the latest Yubikey minidriver from the share if that version is newer than the existing, includes the LEGACY_MODE switch on the install to support remote Yubikeys. Requires the Yubikey minidriver to be downloaded and stored in the same directory as this script.
 Link to Yubikey minidriver: https://www.yubico.com/support/download/smart-card-drivers-tools/
 
 ## PARAMETERS
@@ -28,10 +26,10 @@ Informs the script to automatically reboot.
 Forces the script to install the minidriver over an existing installation.
 
 ### NOTES
-Created By: ActiveDirectoryKC.NET
-Created On: 06/13/2024
-Updated On: 07/09/2024
-Version: 0.9.1
+- Created By: ActiveDirectoryKC.NET
+- Created On: 06/13/2024
+- Updated On: 07/09/2024
+- Version: 0.9.1
 
 #### TODO
 - Include checks if the prompt to do the install is elevated.
